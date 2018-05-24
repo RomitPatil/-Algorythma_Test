@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2828107224
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sketchfile
+      Dependencies: {}
